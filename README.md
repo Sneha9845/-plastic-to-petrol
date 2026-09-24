@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Plastic to Petrol
 
-## Getting Started
+A web dashboard that explains how plastic waste can be converted into petrol-like fuel, with cinematic visuals.
 
-First, run the development server:
+## Problem
+Plastic waste is a growing environmental problem. This project presents the plastic-to-fuel idea in a simple, visual way so people can understand how waste can become a useful resource.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## What this project does
+- Presents the plastic-to-petrol process in a single dashboard
+- Uses cinematic visuals to make the process easy to follow
+- Helps visitors understand the benefits of recycling plastic
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Tech Stack
+- Next.js (App Router)
+- React
+- TypeScript
+- CSS
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## How to run it
+1. Clone the repo
+2. Install dependencies: `npm install`
+3. Start the app: `npm run dev`
+4. Open http://localhost:3000 in your browser
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Status
+Prototype
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Author
+Sneha G, MCA Graduate, Bengaluru
+LinkedIn: https://www.linkedin.com/in/sneha-g-364938290/
